@@ -1,0 +1,16 @@
+{
+  "name": "@ecube-labs/prettier-config",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ecube-Labs/prettier-config.git"
+  },
+  "author": "Ecube Labs Software Team <sw@ecubelabs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ecube-Labs/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Ecube-Labs/prettier-config#readme"
+}
