@@ -8,7 +8,7 @@
     "url": "git+https://github.com/Ecube-Labs/prettier-config.git"
   },
   "author": "Ecube Labs Software Team <sw@ecubelabs.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Ecube-Labs/prettier-config/issues"
   },
