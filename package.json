@@ -2,7 +2,7 @@
   "name": "@ecubelabs/prettier-config",
   "version": "0.0.3",
   "description": "",
-  "main": "index.json",
+  "main": "prettier.config.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ecube-Labs/prettier-config.git"
