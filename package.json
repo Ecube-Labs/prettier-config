@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/Ecube-Labs/prettier-config/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/Ecube-Labs/prettier-config#readme"
 }

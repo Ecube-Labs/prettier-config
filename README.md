@@ -2,5 +2,5 @@
 
 ## Usage
 ```bash
-npm install @ecube-labs/prettier-config -D
+npm install @ecubelabs/prettier-config -D
 ```
