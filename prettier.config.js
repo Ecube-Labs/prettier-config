@@ -1,12 +1,14 @@
 module.exports = {
-  $schema: 'http://json.schemastore.org/prettierrc',
+  // $schema: 'http://json.schemastore.org/prettierrc',
   printWidth: 120,
   singleQuote: true,
   trailingComma: 'all',
   endOfLine: 'lf',
+  bracketSpacing: true,
+  arrowParens: 'always',
   overrides: [
     {
-      files: '{*.js?(on),*.y?(a)ml,.*.js?(on),.*.y?(a)ml,*.md,.prettierrc,.stylelintrc,.babelrc}',
+      files: '{*.y?(a)ml,.*.js?(on),.*.y?(a)ml,*.md,.prettierrc,.stylelintrc,.babelrc}',
       options: {
         tabWidth: 2,
       },
