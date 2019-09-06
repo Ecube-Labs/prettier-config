@@ -1,6 +1,6 @@
 {
   "name": "@ecubelabs/prettier-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "prettier.config.js",
   "repository": {
