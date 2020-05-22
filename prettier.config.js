@@ -8,12 +8,6 @@ module.exports = {
   arrowParens: 'always',
   overrides: [
     {
-      files: ['.prettierrc,.stylelintrc,.babelrc', '*.{y{a,}ml,js{on,},md}'],
-      options: {
-        tabWidth: 2,
-      },
-    },
-    {
       files: '{**/.vscode/*.json,**/tsconfig.json,**/tsconfig.*.json}',
       options: {
         parser: 'json5',
