@@ -8,7 +8,7 @@ module.exports = {
   arrowParens: 'always',
   overrides: [
     {
-      files: '{*.y?(a)ml,.*.js?(on),.*.y?(a)ml,*.md,.prettierrc,.stylelintrc,.babelrc}',
+      files: ['.prettierrc,.stylelintrc,.babelrc', '*.{y{a,}ml,js{on,},md}'],
       options: {
         tabWidth: 2,
       },
